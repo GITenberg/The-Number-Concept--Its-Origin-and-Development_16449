@@ -1,0 +1,28 @@
+_repo: The-Number-Concept--Its-Origin-and-Development_16449
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Conant, Levi L. (Levi Leonard)
+    alias: Conant, Levi Leonard
+    birthdate: 1857
+    deathdate: 1916
+    gutenberg_agent_id: '6721'
+    url: http://www.gutenberg.org/2009/agents/6721
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2005-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16449'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Number concept'
+- !lcc 'QA'
+title: 'The Number Concept: Its Origin and Development'
+url: http://www.gutenberg.org/ebooks/16449
